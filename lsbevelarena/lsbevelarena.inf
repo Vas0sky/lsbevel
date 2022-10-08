@@ -17,4 +17,4 @@ VERTFOGEND      0
 WORLDRGBPER     100
 MODELRGBPER     100
 INSTANCERGBPER  100
-GAMEMODE		1
+GAMETYPE    1  ; Track type (0:default, 1:battle, 2:stunt, 3:frontend, 4:sprint)
