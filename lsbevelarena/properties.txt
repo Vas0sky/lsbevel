@@ -1,0 +1,8 @@
+GRAVITY {
+  Magnitude       1100.0                        ; Magnitude of gravity
+  Direction       0.000000 1.000000 0.000000    ; Direction of gravity
+  Dampening       0.000000                      ; Dampening effect
+  Rockiness       0.000000 0.000000             ; Rocky effect parameters
+                  0.000000 0.000000
+  RockyType       0                             ; Type of rocky effect [0 - 1]
+}
